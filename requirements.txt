@@ -1,4 +1,5 @@
 nltk
 pandas
 numpy
+gensim
 scikit-learn
